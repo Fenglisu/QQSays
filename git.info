@@ -1,4 +1,8 @@
 
+
+【查看文件状态】
+$ git status
+
 【添加文件】
 $ git add index.html
 
