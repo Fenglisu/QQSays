@@ -1,0 +1,9 @@
+
+【添加文件】
+$ git add index.html
+
+【提交到仓库】
+$ git commit -m "add html"
+
+【推送文件】
+$ git push
