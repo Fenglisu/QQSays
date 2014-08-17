@@ -1,5 +1,4 @@
 
-
 【查看文件状态】
 $ git status
 
@@ -11,3 +10,15 @@ $ git commit -m "add html"
 
 【推送文件】
 $ git push
+
+=============================
+
+【把目录变成可以仓库】
+$ git init
+
+【设置每个机器的Name and Email】
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+【从远程克隆库】
+$ git clone git@github.com:michaelliao/gitskills.git
